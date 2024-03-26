@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+.container {
+    display: flex;
+}
+
+.food-item {
+	padding: 6px;
+}
+
+.food {
+    width: 200px;
+    font-size: xx-large;
+}
